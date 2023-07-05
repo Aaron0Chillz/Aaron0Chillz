@@ -1,7 +1,7 @@
 <h1 align='center'>"Hi 👋, Aaron Charles here"</h1>
 <p align="center">🚀 👁👁 Look here 😋😋You w ant to see something new ?😎 <br> Please don't curse</p>
 <p align="center"> Let me kidnap you come here 👉🏾 <a href="https://Aaron0Chillz.github.io/CV" target='./_blank'>Code Practice</a></p>
-<p align="center">Lets listen to this podcast together😎 👇🏾👇🏾 <a href="https://spotifyanchor-web.app.link/e/cA9XxRgPbBb"  target='./_blank'> <br> We talk about life hack!   <b>Girls</b> and with</a></p>
+<p align="center">Lets listen to this podcast together😎 👇🏾👇🏾 <a href="https://spotifyanchor-web.app.link/e/cA9XxRgPbBb"  target='./_blank'> <br> We talk about life hack!   </p>
 
 
 <h1 align="center"> Welcome to my page<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
