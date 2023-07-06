@@ -1,7 +1,7 @@
 <h1 align='center'>"Hi 👋, Aaron Charles here"</h1>
-<p align="center">🚀 👁👁 Look here 😋😋You w ant to see something new ?😎 <br> Please don't curse</p>
+<p align="center">🚀 👁👁 Look here 😋😋You want to see something new ?😎 <br> Please don't curse</p>
 <p align="center"> Let me kidnap you come here 👉🏾 <a href="https://Aaron0Chillz.github.io/CV" target='./_blank'>Code Practice</a></p>
-<p align="center">Lets listen to this podcast together😎 👇🏾👇🏾 <a href="https://spotifyanchor-web.app.link/e/cA9XxRgPbBb"  target='./_blank'> <br> We talk about life hack!   </p>
+<p align="center">Listen to my podcast 😎 👇🏾👇🏾 <a href="https://spotifyanchor-web.app.link/e/cA9XxRgPbBb"  target='./_blank'> <br> We talk about life hack!   </p>
 
 
 <h1 align="center"> Welcome to my page<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
@@ -11,7 +11,6 @@
 
 	
 <p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aaron0Chillz&show_icons=true&locale=en&layout=compact&theme=radical" alt="Aaron0Chillz" width=360 height=180/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aaron0Chillz&show_icons=true&theme=radical" alt="Aaron0Chillz" width=420 height=180/>
 </p>
 
 </br>
