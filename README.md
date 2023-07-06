@@ -12,6 +12,7 @@
 	
 <p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aaron0Chillz&show_icons=true&locale=en&layout=compact&theme=radical" alt="Aaron0Chillz" width=360 height=180/>
 </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aaron0Chillz&theme=gruvbox" alt="Aaron0Chillz" /></a> </p>
 
 </br>
 <h4> 
