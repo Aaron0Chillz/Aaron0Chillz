@@ -16,7 +16,7 @@
 
 </br>
 <h4> 
-	<img align="https://64.media.tumblr.com/369a52fbd9de5230b8ac6986ef801a1e/tumblr_n1pyp1FIBF1ts0osto3_400.gifv" width="500" height="281" /> 
+	<img align="https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif" width="500" height="281" /> 
 <ul align="left">
 	<li> :seedling: I’m currently learning Low-level programming, Algorithms, Higher-level programming, System engineering, DevOps </li><br/><br/>
 </ul>
