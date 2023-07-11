@@ -7,12 +7,12 @@
 <h1 align="center"> Welcome to my page<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 <h3 align="center"><a href="mailto:aceaaroncharles001@gmail.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a>
 <a href='./_blank'><img src="https://img.shields.io/badge/RESUME-blue?style=for-the-badge"></a>
-<h1 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Welcome+To+My+Github!;Hope+you+Enjoy+:)."> </h1><p align="left"> <img src="https://komarev.com/ghpvc/?username=AaronoChillz&label=Profile%20views&color=0e75b6&style=flat" alt="Aaron0Chillz" /> </p>
+<h1 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Welcome+To+My+Github!;Hope+you+Enjoy+:)."> </h1><p align="left"> <img src="https://komarev.com/ghpvc/?username=aceAaronCharles&label=Profile%20views&color=0e75b6&style=flat" alt="aceAaronCharles" /> </p>
 
 	
-<p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aaron0Chillz&show_icons=true&locale=en&layout=compact&theme=radical" alt="Aaron0Chillz" width=360 height=180/>
+<p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aceAaronCharles&show_icons=true&locale=en&layout=compact&theme=radical" alt="aceAaronCharles" width=360 height=180/>
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aaron0Chillz&theme=gruvbox" alt="Aaron0Chillz" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aceAaronCharles&theme=gruvbox" alt="aceAaronCharles" /></a> </p>
 
 </br>
 <h4> 
@@ -33,10 +33,10 @@
 
 | Repository | Description |
 | --- | --- |
-| [ alx-low_level_programming](https://github.com/Aaron0Chillz/Alx-low_level_programming) | C programming, functions, pointers, data structures (stacks/queues, singly/doubly linked list, hash tables, binary trees), algorithms(sorting, Big O), bit manipulation, recursion, variadic functions, memory management, heap/stack, static/dynamic libraries |
-| [ alx-system_engineering-devops](https://github.com/Aaron0Chillz/Alx-system_engineering-devops) | Linux permissions, redirections, syscalls, loops, conditions and parsing, processes and signals, SSH |
-| [ alx-higher_level_programming](https://github.com/Aaron0Chillz/alx-higher_level_programming) | Python|
-| [ 100-Days-of-Code-Bootcamp](https://github.com/Aaron0Chillz/100-Days-of-Code-Bootcamp) | HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps, Python|
+| [ alx-low_level_programming](https://github.com/aceAaronCharles/Alx-low_level_programming) | C programming, functions, pointers, data structures (stacks/queues, singly/doubly linked list, hash tables, binary trees), algorithms(sorting, Big O), bit manipulation, recursion, variadic functions, memory management, heap/stack, static/dynamic libraries |
+| [ alx-system_engineering-devops](https://github.com/aceAaronCharles/Alx-system_engineering-devops) | Linux permissions, redirections, syscalls, loops, conditions and parsing, processes and signals, SSH |
+| [ alx-higher_level_programming](https://github.com/aceAaronCharles/alx-higher_level_programming) | Python|
+| [ 100-Days-of-Code-Bootcamp](https://github.com/aceAaronCharles/100-Days-of-Code-Bootcamp) | HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps, Python|
 
 
 <h3 align="left">Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h3>
@@ -58,11 +58,11 @@
   
 | Project name | Description |
 | --- | --- |
-|[Printf](https://github.com/Aaron0Chillz/printf)| The program is designed to mimic the printf function in C.|
-|[Simple_Shell](https://github.com/Aaron0Chillz/simple_shell)| The program is designed to mimic the abilities of a simple shell. |
-|[Monty](https://github.com/Aaron0Chillz/monty) | Stacks, Queues - LIFO, FIFO |
-|[Sorting_Algorithms](https://github.com/Aaron0Chilz/sorting_algorithms) | We did a number of Algorithms that sort data |
-|[AirBnb](https://github.com/Aaron0Chillz/AirBnB_clone)| The program is designed to mimic the abilities of a AirBnB console. |
+|[Printf](https://github.com/aceAaronCharles/printf)| The program is designer to mimic the printf function in C.|
+|[Simple_Shell](https://github.com/aceAaronCharles/simple_shell)| The program is designed to mimic the abilities of a simple shell. |
+|[Monty](https://github.com/aceAaronCharles/monty) | Stacks, Queues - LIFO, FIFO |
+|[Sorting_Algorithms](https://github.com/aceAaronCharles/sorting_algorithms) | We did a number of Algorithms that sort data |
+|[AirBnb](https://github.com/aceAaronCharles/AirBnB_clone)| The program is designed to mimic the abilities of a AirBnB console. |
 <br />
 
 
@@ -86,7 +86,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aaron0Chillz&theme=gruvbox" alt="Aaron0Chillz" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aceAaronCharles&theme=gruvbox" alt="aceAaronCharles" /></p>
 
 
 ---
