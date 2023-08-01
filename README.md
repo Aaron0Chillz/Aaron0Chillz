@@ -1,5 +1,5 @@
 <h1 align='center'>"Hi 👋, Aaron Charles here"</h1>
-<p align="center">🚀 👁👁 Look here 😋😋You want to see something new ?😎 <br> Please don't curse</p>
+<p align="center">🚀 👁👁 Look here 😋😋You want to see something new ?😎</p>
 <p align="center"> Let me kidnap you come here 👉🏾 <a href="https://Aaron0Chillz.github.io/CV" target='./_blank'>Code Practice</a></p>
 <p align="center">Listen to my podcast 😎 👇🏾👇🏾 <a href="https://spotifyanchor-web.app.link/e/cA9XxRgPbBb"  target='./_blank'> <br> We talk about life hack!   </p>
 
@@ -16,7 +16,7 @@
 
 </br>
 <h4> 
-	<img align="https://media.giphy.com/media/J8H1ZuvOj73lVrHuma/giphy.gif" width="500" height="281" /> 
+	<img align="https://cloud.githubusercontent.com/assets/4694092/13901133/38e46d96-edd7-11e5-967e-d1340df1ec68.gif" width="500" height="281" /> 
 <ul align="left">
 	<li> :seedling: I’m currently learning Low-level programming, Algorithms, Higher-level programming, System engineering, DevOps </li><br/><br/>
 </ul>
