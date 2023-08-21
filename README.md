@@ -1,6 +1,6 @@
 <h1 align='center'>"Hi 👋, Aaron Charles here"</h1>
 <p align="center">🚀 👁👁 Look here 😋😋You want to see something new ?😎</p>
-<p align="center"> Let me kidnap you come here 👉🏾 <a href="https://aceaaroncharles.github.io/AaronCharlesWebsite/" target='./_blank'>Code Practice</a></p>
+<p align="center"> Let me kidnap you come here 👉🏾 <a href="https://aceaaroncharles.github.io/AaronCharlesWebsite/" target='./_blank'>Portfolio Website</a></p>
 <p align="center">Listen to my podcast 😎 👇🏾👇🏾 <a href="https://spotifyanchor-web.app.link/e/cA9XxRgPbBb"  target='./_blank'> <br> We talk about life hack!   </p>
 
 
